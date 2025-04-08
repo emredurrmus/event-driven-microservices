@@ -1,0 +1,5 @@
+2025-03-22 11:41:50 [main] INFO  c.m.t.TwitterToKafkaServiceApplication - Starting TwitterToKafkaServiceApplication using Java 22 with PID 16592 (C:\Users\emred\Desktop\Projects\twitter\twitter\twitter-to-kafka-service\target\classes started by emred in C:\Users\emred\Desktop\Projects\twitter\twitter)
+2025-03-22 11:41:50 [main] INFO  c.m.t.TwitterToKafkaServiceApplication - No active profile set, falling back to 1 default profile: "default"
+2025-03-22 11:41:50 [main] INFO  c.m.t.TwitterToKafkaServiceApplication - Started TwitterToKafkaServiceApplication in 0.947 seconds (process running for 4.752)
+2025-03-22 11:41:50 [main] INFO  c.m.t.TwitterToKafkaServiceApplication - App starts...
+2025-03-22 11:41:50 [main] INFO  c.m.t.TwitterToKafkaServiceApplication - [-Java -Microservices -Spring -Kafka -ElasticSearch]

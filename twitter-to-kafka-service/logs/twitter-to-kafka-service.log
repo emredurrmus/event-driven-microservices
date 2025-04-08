@@ -1,0 +1,13 @@
+2025-04-02 17:04:15 [main] INFO  c.m.t.TwitterToKafkaServiceApplication - Starting TwitterToKafkaServiceApplication using Java 22 with PID 16156 (C:\Users\emred\Desktop\Projects\twitter\twitter\twitter-to-kafka-service\target\classes started by emred in C:\Users\emred\Desktop\Projects\twitter\twitter)
+2025-04-02 17:04:15 [main] INFO  c.m.t.TwitterToKafkaServiceApplication - No active profile set, falling back to 1 default profile: "default"
+2025-04-02 17:04:15 [main] INFO  c.m.t.TwitterToKafkaServiceApplication - Started TwitterToKafkaServiceApplication in 0.817 seconds (process running for 1.563)
+2025-04-02 17:04:15 [main] INFO  c.m.t.TwitterToKafkaServiceApplication - App starts...
+2025-04-02 17:04:15 [main] INFO  c.m.t.TwitterToKafkaServiceApplication - [Java, Microservices, Kafka, Elasticsearch]
+2025-04-02 17:04:15 [main] INFO  c.m.t.TwitterToKafkaServiceApplication - Hello microservices!
+2025-04-02 17:04:15 [main] INFO  c.m.t.r.impl.MockKafkaStreamRunner - Starting mock filtering twitter streams for keywords [Java, Microservices, Kafka, Elasticsearch]
+2025-04-02 17:04:15 [pool-2-thread-1] INFO  c.m.t.l.TwitterKafkaStatusListener - Twitter status with text ultricies magna libero adipiscing elit Maecenas Microservices libero consectetuer pulvinar massa elit
+2025-04-02 17:04:25 [pool-2-thread-1] INFO  c.m.t.l.TwitterKafkaStatusListener - Twitter status with text magna amet lectus Kafka Maecenas elit
+2025-04-02 17:04:35 [pool-2-thread-1] INFO  c.m.t.l.TwitterKafkaStatusListener - Twitter status with text elit massa libero amet Java libero posuere sit
+2025-04-02 17:04:45 [pool-2-thread-1] INFO  c.m.t.l.TwitterKafkaStatusListener - Twitter status with text Maecenas magna consectetuer pulvinar sed amet Java elit sed Fusce posuere ultricies
+2025-04-02 17:04:55 [pool-2-thread-1] INFO  c.m.t.l.TwitterKafkaStatusListener - Twitter status with text sed ipsum lectus adipiscing congue Elasticsearch ipsum malesuada ultricies
+2025-04-02 17:05:05 [pool-2-thread-1] INFO  c.m.t.l.TwitterKafkaStatusListener - Twitter status with text adipiscing posuere purus Java Maecenas porttitor
