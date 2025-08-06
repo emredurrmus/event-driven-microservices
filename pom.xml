@@ -60,6 +60,18 @@
 			</dependency>
 
 			<dependency>
+				<groupId>com.microservices</groupId>
+				<artifactId>kafka-admin</artifactId>
+				<version>${project.version}</version>
+			</dependency>
+
+			<dependency>
+				<groupId>com.microservices</groupId>
+				<artifactId>kafka-producer</artifactId>
+				<version>${project.version}</version>
+			</dependency>
+
+			<dependency>
 				<groupId>org.springframework</groupId>
 				<artifactId>spring-webflux</artifactId>
 				<version>${webflux-version}</version>
